@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>How to revive the Golden Age with the true causes of the vvant of good trading, and money, in these kingdoms; and how yet to remedy them, and to make these kingdoms exceed all others, in riches and power. Humbly presented to the consideration of the Parliament.</title>
+            <author>Hodges, John, fl. 1672-1674.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24228</idno><idno type="EEBO-CITATION">99831978</idno>
+  <idno type="VID">198824</idno>
+  <idno type="EEBO-PROQUEST">2248498809</idno>
+  
+            <idno type="STC">Wing H2301</idno>
+            <idno type="PROQUEST">99831978</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831978e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>How to revive the Golden Age with the true causes of the vvant of good trading, and money, in these kingdoms; and how yet to remedy them, and to make these kingdoms exceed all others, in riches and power. Humbly presented to the consideration of the Parliament.</title>
+                  <author>Hodges, John, fl. 1672-1674.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by H.Bruges for G. Widdows at the Green-Dragon in St. Pauls Church-Yard; where you may see a farther discourse of trade, intituled the True English interest, or an account of the cheif national improvements, demonstrating an infallible advance of this nation, to infinite wealth and greatness, trade and populacy, with imployment and preferment for all persons. By Carew Reynel esq.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1666?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: John Hodges esq;.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commercial policy --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:198824:1"/>
+            <head>How to Revive the Golden Ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; With the true Causes of the vvant of good Trading, and Money, In these Kingdomes; And how yet to Remedy them, and to make these Kingdoms exceed all others, in Riches, and Power. <hi>Humbly Presented to the Consideration of the PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Golden Age may be Revived, and these Kingdoms exceedingly increased in Riches and Power, by the Industrious Labours of the Multitude, carefully, diligently, and honestly, employed, to preserve, Improve, and increase, their most profitable Native Produce, Manufactures and Shipping, for by Improving and Increasing them our profitable Exportations may be much increased.</p>
+            <p n="2">2. But our Exportations may be very great, and yet these Kingdoms may in a short time become very poor, weak, and contemptible, if there should be more goods Imported, and consu<g ref="char:EOLhyphen"/>med, in these Kingdoms, then the yearly values of our Native Produce, Manufactures, and Fishings, Exported, and the profit of our Shipping, shall amount unto.</p>
+            <p n="3">3. For the vain and excessive wasting of the Inhabitants (especially upon Forrein Growth, and Manufactures) maintains their poor, and Exports our stock, and discourageth, and Impove<g ref="char:EOLhyphen"/>risheth our Poor, and our Artificers, who leave us, and Inrich Forreiners. And these are the true causes of the want, of good Trading, and of Money, in these Kingdoms.</p>
+            <p n="4">4. For all our Exportations, and Importations, in Trade will be near equal in value, accounting the values in Forrein parts (first deducting the charges there) of what is Exported thither, or Imported from thence by us in our ships, and accounting the charges, and values in these Kingdomes, of what is imported or Exported by Forreiners in their ships.</p>
+            <p n="5">5. And if the values exported, be more then of Goods imported, and consumed, the remainder (to make them equal in value) will be imported in Bullion, Plate, Money, or Jewels, or will be converted into a Trading stock, for the future benefit of these Kingdoms, which with the increase thereof (well imployed) will be a most profitable inlargement of our forrein Trades.</p>
+            <p n="6">6. Though therefore particular persons should be much impoverished, by idly mispending too much time, and Money, in Gaming, and Drinking, &amp;c. or in Plays, Shows, and such like diversions, or by litigious unprofitable Law-suites, occasioning the neglect of greater concernments, or by being cheated, by Thefts, Lotteries, excessive Usury, by Extortions, or by colour of office.</p>
+            <p n="7">7. Yet if (by increasing the profitable labours of the Inhabitants, and moderate using them) our Exportations should be much increased, and if by our forbearing excessive Consumptions of the forrein Produce, and Manufactures, our unprofitable importations should be decreased; then would the Merchants bring into these Kingdomes as much in value (to increase the Riches and strength thereof) as our Exportation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are more then our Consumptions of the said unprofitable forrein Produce, and Manufactures.</p>
+            <div type="part">
+               <head>To Export more in value then is imported and Consumed by us in these Kingdoms.</head>
+               <p n="8">8. OUr Exportations should be increased, and the Consumptions of our Importations diminished; which may be effected, by the industrious Inhabitants, diligently, and profitably, employed, to increase, and improve their most profitable Native Produce, Manufactures, Fishings, and Shipping; and to invite in useful forreiners to assist therein; and by forbearing forrein superfluous trifles, and moderately, using their more ne<g ref="char:EOLhyphen"/>cessary Goods.</p>
+               <p>The Inhabitants
+<list>
+                     <item>To increase their Exportations,
+<list>
+                           <item>May Increase and Improve
+<list>
+                                 <item>Their Native Produce.
+<list>
+                                       <item>By being industriously, diligently, and Artificially, Imployed, to increase, preserve, and improve, the most profitable, and useful, of them, and by spending frugally out of them.</item>
+                                       <item>And what may (by frugality) be spared thereout, might be Exported, and vended at seasonable times, upon reasonable restrictions, and Customs first paid.</item>
+                                    </list>
+                                 </item>
+                                 <item>Manufactures
+<list>
+                                       <item>By making them good to increase their esteem,
+<list>
+                                             <item>Imploying none to make any for Forrein sail, but such as are approved of, to be able Artists, and suffering none that are defective to be Exported.</item>
+                                             <item>Punishing those that make them Defective.
+<list>
+                                                   <item>If the Cities and Corporations, most conveniently seated for cloathing, should have the seaching, and sealing of them, then if they seal any Defective Clothes, they might forfeit the values according to the Statute of the 4th. and 5th. of <hi>Phil.</hi> and <hi>Mary,</hi> Chap. 5. which forfeitures might profitably be imploy'd in improving the fishing-Trades.</item>
+                                                </list>
+                                             </item>
+                                             <item>Rewarding those that make them best; Then these Cities and Corporations would emulate, and strive to excel, each others, in making good Clothes, &amp;c.</item>
+                                          </list>
+                                       </item>
+                                       <item>By affording them cheap<g ref="char:EOLhyphen"/>est to increase their vent.
+<list>
+                                             <item>By the diligent industry, and frugality, of those that are imployed therein; and by lessening the superfluous number of Retailers, especially of forrein.</item>
+                                             <item>By inhabiting the cheapest (convenient) places for making them, and by Exporting them from the nearest Ports, (not to the next) but best Markets.</item>
+                                             <item>By using all advantages of Arts, Ingins, and creatures, to spare the labour of carriage, and of doing that by many, which may as well be done by a few.</item>
+                                             <item>By paying small interest for money.
+<list>
+                                                   <item>Whereby they that take up Money to imploy in increasing, or improving our Produce, or Manufactures, and the Merchants that take up Money to Trade with, may afford them cheaper: Only plenty of money makes interest low, <hi>et contra.</hi>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item>But erecting Lumbards, or banks of Charity, would much help the Indigent, industrious, poor, and abate the Extorsive Usury practised on them.</item>
+                                             <item>By small Taxes upon such of the Inhabitants as are imployed in Manufactures, and in the most profitable Labours, and imployments.</item>
+                                             <item>By small Customs, on such wrought goods Exported as Forreiners can as well make, and on such unwrought goods imported as are useful to us.</item>
+                                          </list>
+                                       </item>
+                                       <item>By using them our selves.
+<list>
+                                             <item>Prohibiting the Importation or use of Destructive or needless Manufactures, such as would serve but to corrupt the Natives, and to impoverish them;</item>
+                                             <item>Putting great Customs on wrought goods imported (if bulky) and unwrought goods Exported, thereby endeavouring to inlarge our Manufactories.</item>
+                                             <item>All concerned in the making, or disposing of them (especially our Factors) should, by their Examples, invite others to use them.</item>
+                                          </list>
+                                       </item>
+                                       <item>All Corporations should be free for all Artists imployed in increasing, and improving, our Manufactures for Exportations, and our Fishings, and Shipping.</item>
+                                    </list>
+                                 </item>
+                                 <item>And Shipping
+<list>
+                                       <item>By Building in the cheapest, and convenientes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                             <desc>•</desc>
+                                          </gap> places, such great Ships, and Busses, as may be most serviceable for the Voyages, Ports, and Fishings, for which they are intended.</item>
+                                       <item>By Increasing and Incouraging
+<list>
+                                             <item>Merchants.
+<list>
+                                                   <item>By special priviledges, and Immunities.
+<list>
+                                                         <item>To delight, and become Expert in Merchantdizing, and in building Ships rather than Houses.</item>
+                                                         <item>To gain most of the Exportation, and the (too much neglected) Trade of Transportation to themselves, and to these Kingdoms.</item>
+                                                      </list>
+                                                   </item>
+                                                   <item>By suffering them to trade to any of our Plantations, and (as freely as any forreiners) to any part of the World, they imploying (most of) our Seamen.</item>
+                                                   <item>By erecting four or five Companies, and Counsels for Trade, to whom all Ports may be free for Goods imported by them, till sold, and who by other special priviledges might be encouraged, and enabled, exceedingly to inrich these Kingdoms.
+<list>
+                                                         <item>By increasing, improving, and skilfully disposing of our Produce; Manufactures, and Rich Fishings.</item>
+                                                         <item>By imploying the Kingdomes stock, and publick bancks, in stores, trading, and good Shipping.</item>
+                                                         <item>By making new Discoveries, for Trading, or Planting; and improving all for our greatest advantages.</item>
+                                                         <item>By procuring from forreiners our most useful advantages for commerce, &amp; by preventing obstructions, <hi>&amp;c.</hi>
+                                                         </item>
+                                                      </list>
+                                                   </item>
+                                                </list>
+                                             </item>
+                                             <item>Seamen.
+<list>
+                                                   <item>By some convenient free Ports for his Majesties Subjects (imploying most our Seamen) in Exporting goods, to increase our Transportations, and fishings.</item>
+                                                   <item>By freeing their Persons from Imprisonments, for small debts, or in Personal Actions between private persons, and by erecting Schools for Navigation, &amp;c.</item>
+                                                   <item>By imploying them in Land-services, or Southern Voyages, or in the Coal-trade, or in fishing in Pinks, <hi>&amp;c.</hi> in the Winter.</item>
+                                                </list>
+                                             </item>
+                                          </list>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>May invite Forreiners.
+<list>
+                                 <item>To labour for their benefit.
+<list>
+                                       <item>As a considerable number of Seamen, and Fishermen, and such as might be usefully imployed, to increase the vast Trades, of Transportation, and fishing.</item>
+                                       <item>And such Artists as are best skilled in building Ships, or busses, <hi>&amp;c.</hi> and in working on Mettles, and in the Linnen, Wollen, Cotten, and Silk, Manufactures.</item>
+                                    </list>
+                                 </item>
+                                 <item>To imploy the Natives.
+<list>
+                                       <item>As all Merchants (and others) that will Trade, or imploy their stocks, in our Ships, or Companies, or in their banks.</item>
+                                       <item>All industriouss persons (conforming to the government of our Plantations) might profitably be admitted to Plant in any of them.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>To diminish their unprofitable Im<g ref="char:EOLhyphen"/>portations.
+<list>
+                           <item>May forbear to Import, or exceed in forrein Lace, Ribonds, Pictures, or such like unnecessary, and useless, trifles; for these diminish much the Riches, and strength, of these Kingdoms.</item>
+                           <item>May moderately use.
+<list>
+                                 <item>Meat and drink; laying greater Customs on Wines, Fruit, Spice, Suger and Tobacco; and on other unnecessary forrein superfluities.</item>
+                                 <item>Clothing, setling constant decent frugal Fashions according to the several qualities of persons, consuming therein sparingly forrein Manufactures.</item>
+                                 <item>Building; prohibiting Building for seven years upon any new foundations, excepting in Sea-Port Towns, or near the Navigable part of some River.</item>
+                                 <item>Furnitures; the usefulness should be more regarded therein then the costliness, and herein, and in all other expences, we should observe the Golden Mean.</item>
+                              </list>
+                           </item>
+                           <item>May lessen the excessive number of Coaches; able idlers; and idle debauched servants; Such sh<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>d be taught profitable Trades at idle times, to prevent their future beggery, and the Parish charge.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="9">9. THus by our diligent care and labour, in increasing, and improving, our useful Native Produce, Manufactures and Shipping; and by our frugal use, and careful disposal, of them, we may benefit our selves and the world; for supplying their wants we may enrich our selves; and by being useful unto them, may please and profit them, and may increase their friendship to us, and their willing complyance with, and dependance upon us; and then teaching them by our good examples, and precepts, the chiefest, and most useful, truths, we may restore the World to their antient integrity, and honesty, and thereby Revive the Golden Age.</p>
+               <p n="10">10. That our Southern Plantations are the nearest united, and closest tyed to these Kingdoms, by the Golden Chain of commerce, and have the greatest dependance upon them; and that they are so necessary for us, that it is impossible to continue long the Soverainty of the Seas, but by increasing, and encouraging them, which therefore (by all Lawful ways imaginable) should be endeavoured.</p>
+               <p n="11">11. And (although it is of greatest concernment to these Kingdoms so much to improve, and increase, our Produce, Manufactures, and Shipping, wherein our wealth and safety consists, that there should rathe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> want inhabitants, for these profitable imployments, then imployments for the inhabitants) yet if any of the inhabitans should not be fully imployed therein; it would be advantagious to imploy them in mend<g ref="char:EOLunhyphen"/>ding the High-wayes; or in making Bridges, or Causewaies, that thereby the Portage of Goods may be easier and cheaper; or in making Keys, or Moles for Shipping, or in mending Harbours, or in fortifyin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sea-Ports, or in cutting Rivers, or making any of them more Navigable; or in setting up Land-marks, for the security of shipping, or in such like Imployments.</p>
+               <p n="12">12. Or it would be safer, more profitable, and less chargeable, to these Kingdomes, to imploy the poor that want other imployments in making inclosures, or fortifications; or in Planting Trees; or in Erectin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Store-houses, or Work-houses; or other publick structures, then suffer them to be idle, and take ill courses, and then be forced to cut off these ill members for want of timely cure.</p>
+               <p n="13">13. The better to explain these assertions, it may be considered; that fruitful Countries so well provided with all necessaries <hi>for Food and Rayment, &amp;c.</hi> that they can Export more of them to strangers, than they need to import and consume, may preserve themselves from being impoverished, though they should have little or no Forrein Trade, and may maintain themselves with necessaries, though half the inhabi<g ref="char:EOLhyphen"/>tants that are able and fit to work, should be idle, or unprofitably imployed; these three Kingdomes are such.</p>
+               <p n="14">14. And therefore if eight Millions of the inhabitants thereof are able to work, four Millions of them are sufficient to provide necessaries for them all: and though two Millions of the other four were imployed in providing for the superfluous delights and pleasures of the inhabitants; yet if they would exceed no more then the value of what the two Millions can provide, any part of the other two Millions might be im<g ref="char:EOLhyphen"/>ployed in the Wars, or in any other publick imployments, and these Kingdoms would not be impoverished by maintaining them.</p>
+               <p n="15">15. This will hold proportionably to the number of inhabitants that are really in these Kingdoms, so that a fourth part may well be imployed by his Majesty, or his Subjects, some in Military affairs, others in increasing Riches and strength in these Kingdoms; and in our Plantations, and in teaching the Indians those Golden precepts, which (well kept) would unite the world.</p>
+               <p n="16">16. Then His Majesty doth not imploy the tenth part of those he might well imploy, without impoverishing these Kingdoms; if their idleness, and useless labors, and the excess of the inhabitants, did not hinder.</p>
+               <p n="17">17. We may likewise consider, that if the Riches, and consequently the strength of these Kingdoms are decreased, (as certainly they are) it is not the greatness of Taxes which (being well expended) is but a distributing of it by those that are Rich to those that are poorer amongst us) that causeth the decrease; but because the greatest part of those that are able, and fit to work, are idle, or labour in vain; by spending their time only in providing to maintain the excessive and wastful expences of themselves, and of the other inhabitants; and such do no more increase the Riches and strength of these Kingdoms, then it would be in<g ref="char:EOLhyphen"/>creased by them, if they remained idle, and consumed the less.</p>
+               <p n="18">18. For these Kingdoms areat as much charge to maintain such as live idly, or are imployed only in providing to maintain the excessive expences of themselves, and the rest of the Inhabitants, and are more impoverished by them, then they would be if they paid so much in Taxes as would maintain as many Souldiers, though their Poverty comes more insensibly upon them this way, then by paying Taxes.</p>
+               <p n="19">19. That whatsoever occasions the increase of the consumption of our own Produce, and Manufactures, or of our forrein, by the inhabitants of these Kingdoms, impoverisheth them, and that only which increaseth the forrein consumption and vent thereof, inricheth them, and that by the continual increase of Taverns, and of Alehouse-keepers, and of other Retaylers, the charges and Poverty of these Kingdoms do much increase.</p>
+               <p n="20">20. That Customs, and Excise may be so laid on, and ordered as to defray all publick charges, and yet that the inhabitants of these Kingdoms, may grow richer by paying them, then if they were wholly taken away.</p>
+               <p n="21">21. But (though Land Taxes were more then double what they are now) the Inhabitants of these Kingdomes, may be so imployed, that most may find plenty and few want; and these Kingdoms (in a short time) may be made the Richest, the most powerful, and flourishing Kingdoms; and his Majesty may become the most powerful, and the Richest Monarch in the world, without any injustice to any Prince or Potentate, and with little effusion of Blood. All which and much more (if accepted before it be too late) shall <hi>(God willing)</hi> be more fully Demonstrated, by <hi>JOHN HODGES</hi> Esq;</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>With Allowance.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Bruges</hi> for <hi>G. Widdows</hi> at the Green-Dragon in St. <hi>Pauls Church-Yard;</hi> Where you may see a farther Discourse of Trade, Intituled the <hi>True English Interest,</hi> or an account of the cheif <hi>National Improvements,</hi> demonstrating an Infallible Advance of this Nation, to infinite Wealth and Greatness, Trade and Populacy, with Imployment and Preferment for all Persons. By <hi>Carew Reynel</hi> Esq;.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
